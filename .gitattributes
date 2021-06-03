@@ -1,9 +1,9 @@
 # Auto detect text files and perform LF normalization
 *.csharp linguist-detectable=false
-*.java linguist-detectable=true
+*.java linguist-detectable=false
 *.js linguist-detectable=false
 *.html linguist-detectable=false
-*.xml linguist-detectable=true
+*.xml linguist-detectable=false
 *.css linguist-detectable=false
 *.dart linguist-detectable=true
 *.Makefile linguist-detectable=false
