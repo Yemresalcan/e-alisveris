@@ -6,5 +6,5 @@
 *.xml linguist-detectable=true
 *.css linguist-detectable=false
 *.dart linguist-detectable=true
-*.makefile linguist-detectable=false
+*.Makefile linguist-detectable=false
 
