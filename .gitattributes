@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+* text=manuel
 *.xml linguist-detectable=true
 *.dart linguist-detectable=true
 *.java linguist-detectable=true
